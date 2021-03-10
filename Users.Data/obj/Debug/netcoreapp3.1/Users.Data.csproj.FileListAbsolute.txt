@@ -1,0 +1,12 @@
+C:\Users\mleont\source\repos\Users.API\Users.Data\bin\Debug\netcoreapp3.1\Users.Data.deps.json
+C:\Users\mleont\source\repos\Users.API\Users.Data\bin\Debug\netcoreapp3.1\Users.Data.dll
+C:\Users\mleont\source\repos\Users.API\Users.Data\bin\Debug\netcoreapp3.1\Users.Data.pdb
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.csprojAssemblyReference.cache
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.AssemblyInfoInputs.cache
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.AssemblyInfo.cs
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.csproj.CoreCompileInputs.cache
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.dll
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.pdb
+C:\Users\mleont\source\repos\Users.API\Users.Data\bin\Debug\netcoreapp3.1\Users.Data.runtimeconfig.json
+C:\Users\mleont\source\repos\Users.API\Users.Data\bin\Debug\netcoreapp3.1\Users.Data.runtimeconfig.dev.json
+C:\Users\mleont\source\repos\Users.API\Users.Data\obj\Debug\netcoreapp3.1\Users.Data.genruntimeconfig.cache
